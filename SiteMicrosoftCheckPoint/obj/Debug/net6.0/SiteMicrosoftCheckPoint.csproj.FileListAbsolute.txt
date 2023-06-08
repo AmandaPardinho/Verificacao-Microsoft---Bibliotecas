@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\bin\Debug\net6.0\SiteMicrosoftCheckPoint.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\bin\Debug\net6.0\SiteMicrosoftCheckPoint.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\bin\Debug\net6.0\SiteMicrosoftCheckPoint.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\bin\Debug\net6.0\SiteMicrosoftCheckPoint.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\bin\Debug\net6.0\SiteMicrosoftCheckPoint.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\obj\Debug\net6.0\SiteMicrosoftCheckPoint.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\obj\Debug\net6.0\SiteMicrosoftCheckPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\obj\Debug\net6.0\SiteMicrosoftCheckPoint.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\obj\Debug\net6.0\SiteMicrosoftCheckPoint.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\obj\Debug\net6.0\SiteMicrosoftCheckPoint.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\obj\Debug\net6.0\SiteMicrosoftCheckPoint.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\obj\Debug\net6.0\refint\SiteMicrosoftCheckPoint.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\obj\Debug\net6.0\SiteMicrosoftCheckPoint.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\obj\Debug\net6.0\SiteMicrosoftCheckPoint.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\SiteMicrosoftCheckPoint\obj\Debug\net6.0\ref\SiteMicrosoftCheckPoint.dll
