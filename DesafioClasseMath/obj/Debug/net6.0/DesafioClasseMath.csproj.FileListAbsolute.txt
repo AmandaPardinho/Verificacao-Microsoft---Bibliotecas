@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\bin\Debug\net6.0\DesafioClasseMath.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\bin\Debug\net6.0\DesafioClasseMath.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\bin\Debug\net6.0\DesafioClasseMath.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\bin\Debug\net6.0\DesafioClasseMath.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\bin\Debug\net6.0\DesafioClasseMath.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\obj\Debug\net6.0\DesafioClasseMath.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\obj\Debug\net6.0\DesafioClasseMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\obj\Debug\net6.0\DesafioClasseMath.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\obj\Debug\net6.0\DesafioClasseMath.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\obj\Debug\net6.0\DesafioClasseMath.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\obj\Debug\net6.0\DesafioClasseMath.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\obj\Debug\net6.0\refint\DesafioClasseMath.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\obj\Debug\net6.0\DesafioClasseMath.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\obj\Debug\net6.0\DesafioClasseMath.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\Verificacao-Microsoft---Bibliotecas\DesafioClasseMath\obj\Debug\net6.0\ref\DesafioClasseMath.dll
